@@ -474,7 +474,6 @@ A: Check regularly for security updates. Use tools like `npm audit` or Snyk.
 ## 📞 Support
 
 **Questions about the patches?**
-- Read the detailed documentation in the `*-FIX-DOCUMENTATION.md` files
 - Test with the provided HTML test files
 - Check browser console for errors
 
