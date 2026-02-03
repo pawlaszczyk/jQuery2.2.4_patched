@@ -14,19 +14,9 @@ This version fixes **all 4 critical CVEs** in jQuery 2.2.4:
 
 ### Patched jQuery Versions
 - **`jquery-2.2.4-all-cves-fixed.js`** - **RECOMMENDED** - Contains all 4 CVE fixes
-- `jquery-2.2.4-fixed-cve-2019-11358.js` - Fixes for CVE-2015-9251 + CVE-2019-11358
-- `jquery-2.2.4-fixed.js` - CVE-2015-9251 fix only
-
-### Test Files
-- **`CVE-2020-11022-11023-test.html`** - Interactive demo of XSS vulnerabilities (htmlPrefilter)
-- `CVE-2019-11358-test.html` - Interactive demo of Prototype Pollution
-- All test files show Vulnerable vs. Fixed versions
 
 ### Documentation
 - **`README.md`** - This file (Overview of all fixes)
-- `CVE-2015-9251-FIX-DOCUMENTATION.md` - Details on XSS via AJAX fix
-- `CVE-2019-11358-FIX-DOCUMENTATION.md` - Details on Prototype Pollution fix
-- `CVE-2020-11022-11023-FIX-DOCUMENTATION.md` - Details on htmlPrefilter XSS fixes
 
 ## 🔒 Overview of Fixed Vulnerabilities
 
